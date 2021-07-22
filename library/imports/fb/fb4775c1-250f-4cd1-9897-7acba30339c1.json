@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "failure_panel",
+    "texture": "d38f381b-c7f3-4458-8775-830633fa736e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      411,
+      765
+    ],
+    "offset": [
+      -11.5,
+      0
+    ],
+    "originalSize": [
+      434,
+      765
+    ],
+    "capInsets": [
+      0,
+      0,
+      22.5,
+      0
+    ]
+  }
+}

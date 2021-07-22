@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cloudmove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            261,
+            -1100
+          ],
+          "curve": [
+            0.3102459016393442,
+            0.31536885245901625,
+            0.7051229508196722,
+            0.7
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": [
+            1318,
+            -687
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.6166666666666667,
+          "value": [
+            2260,
+            -767
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.8666666666666667,
+          "value": [
+            3154,
+            -597
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.3,
+          "value": [
+            3942,
+            -425
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.75,
+          "value": [
+            4816,
+            -225
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.25,
+          "value": [
+            5668,
+            -555
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.65,
+          "value": [
+            6714,
+            -454
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3,
+          "value": [
+            7908,
+            -951
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

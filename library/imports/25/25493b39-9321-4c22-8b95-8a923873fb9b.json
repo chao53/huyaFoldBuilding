@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niao2",
+    "texture": "9081e644-de35-4929-9fe4-692d12d902b2",
+    "atlas": "",
+    "rect": [
+      80,
+      30,
+      360,
+      390
+    ],
+    "offset": [
+      -10,
+      5
+    ],
+    "originalSize": [
+      540,
+      460
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

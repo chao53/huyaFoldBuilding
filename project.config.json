@@ -1,0 +1,58 @@
+{
+  "name": "huyaFoldBuilding1.2.0",
+  "outputPath": "hyext_dist",
+  "releasePath": "hyext_release",
+  "ignore": [
+    "*.md",
+    "LICENSE",
+    ".git/**",
+    ".gitignore",
+    "package-lock.json"
+  ],
+  "builder": {
+    "name": "@hyext/builder-h5game",
+    "config": {
+      "webTitle": "huyaFoldBuilding1.2.0",
+      "https": true,
+      "h5Dir": "./build/web-mobile",
+      "buildConfig": [
+        {
+          "extType": "pc_anchor_panel",
+          "platform": "pc"
+        },
+        {
+          "extType": "zs_anchor_panel",
+          "platform": "app"
+        },
+        {
+          "extType": "zs_anchor_popup",
+          "platform": "app"
+        },
+        {
+          "extType": "pc_panel",
+          "platform": "pc"
+        },
+        {
+          "extType": "pc_popup",
+          "platform": "pc"
+        },
+        {
+          "extType": "web_video_com",
+          "platform": "web"
+        },
+        {
+          "extType": "web_popup",
+          "platform": "web"
+        },
+        {
+          "extType": "app_panel",
+          "platform": "app"
+        },
+        {
+          "extType": "app_popup",
+          "platform": "app"
+        }
+      ]
+    }
+  }
+}

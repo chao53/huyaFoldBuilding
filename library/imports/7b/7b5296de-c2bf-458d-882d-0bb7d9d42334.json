@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "limitless",
+    "texture": "7429da06-a362-407f-98b2-d4350cca28e5",
+    "atlas": "",
+    "rect": [
+      183,
+      325,
+      566,
+      237
+    ],
+    "offset": [
+      -159,
+      119
+    ],
+    "originalSize": [
+      1250,
+      1125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
